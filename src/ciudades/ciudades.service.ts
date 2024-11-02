@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException, Logger,HttpStatus, Inject } from '@nestjs/common';
+import { Injectable, NotFoundException, Logger, HttpStatus, Inject } from '@nestjs/common';
 import { CreateCiudadDto } from './dto/create-ciudad.dto';
 import { UpdateCiudadDto } from './dto/update-ciudad.dto';
 import { BusinessLogicException } from '../shared/errors/business-errors';
@@ -24,25 +24,25 @@ export class CiudadesService {
 
     @Inject(CACHE_MANAGER)
     private cacheManager: Cache
-  ){}
+  ) { }
 
   async create(createCiudadDto: CreateCiudadDto) {
-    try{
+    try {
       const ciudad = this.ciudadRepository.create(createCiudadDto);
-      await this.ciudadRepository.save( ciudad );
+      await this.ciudadRepository.save(ciudad);
       return ciudad
-    } catch(error){
-      throw new BusinessLogicException(error, HttpStatus.INTERNAL_SERVER_ERROR )
+    } catch (error) {
+      throw new BusinessLogicException(error, HttpStatus.INTERNAL_SERVER_ERROR)
     }
   }
 
-  async findAll() {
+  findAll() {
     try {
-      const cached = await this.cacheManager.get(this.cacheKey);
+      const cached = this.cacheManager.get(this.cacheKey);
 
       if (!cached) {
-        const ciudades = await this.ciudadRepository.find({ relations: ['restaurantes'] });
-        await this.cacheManager.set(this.cacheKey, ciudades, 1000 * 600)
+        const ciudades = this.ciudadRepository.find({ relations: ['restaurantes'] });
+        this.cacheManager.set(this.cacheKey, ciudades, 1000 * 600)
         return ciudades;
       }
       return cached;
@@ -52,14 +52,14 @@ export class CiudadesService {
   }
 
   async findOne(id: string) {
-    const ciudad = await this.ciudadRepository.findOne(
+    var ciudad = await this.ciudadRepository.findOne(
       {
         where: { id: id }
       }
     );
-    if(!ciudad){
+    if (!ciudad) {
       throw new BusinessLogicException(`La ciudad con el ID proporcionado no fue encontrado`, HttpStatus.NOT_FOUND);
-      }
+    }
     return ciudad;
   }
 
@@ -68,22 +68,23 @@ export class CiudadesService {
       id: id,
       ...updateCiudadDto
     })
-    if(!ciudad) { 
-      throw new BusinessLogicException(`La ciudad con el ID proporcionado no fue encontrado`, HttpStatus.NOT_FOUND);}
-    try{
-      
+    if (!ciudad) {
+      throw new BusinessLogicException(`La ciudad con el ID proporcionado no fue encontrado`, HttpStatus.NOT_FOUND);
+    }
+    try {
+
       await this.ciudadRepository.save(ciudad);
       return ciudad;
-    } catch(error){
+    } catch (error) {
       throw new BusinessLogicException('Error al actualizar el país debido a un error del servidor.', HttpStatus.INTERNAL_SERVER_ERROR)
     }
   }
-  async remove(id: string){
-    try{
+  async remove(id: string) {
+    try {
       const ciudad = await this.findOne(id);
       await this.ciudadRepository.remove(ciudad);
       return ciudad;
-    } catch(error){
+    } catch (error) {
       throw new BusinessLogicException('La ciudad con el ID proporcionado no fue encontrado', HttpStatus.NOT_FOUND);
     }
   }
