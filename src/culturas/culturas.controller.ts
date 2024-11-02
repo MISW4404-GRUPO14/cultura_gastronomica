@@ -97,7 +97,7 @@ export class CulturasController {
     @Param('paisId', ParseUUIDPipe) paisId: string,
     @Res() res: Response
   ): Promise<void> {
-    this.culturasService.eliminarPaisDeCultura(culturaId, paisId);
+    await this.culturasService.eliminarPaisDeCultura(culturaId, paisId);
     res.status(HttpStatus.NO_CONTENT).send();
   }
 
