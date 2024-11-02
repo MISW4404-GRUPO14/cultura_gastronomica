@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1730536360563" clover="3.2.0">
+  <project timestamp="1730536360563" name="All files">
+    <metrics statements="1449" coveredstatements="919" conditionals="97" coveredconditionals="55" methods="390" coveredmethods="187" elements="1936" coveredelements="1161" complexity="0" loc="1449" ncloc="1449" packages="31" files="79" classes="79"/>
+    <package name="src">
+      <metrics statements="38" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="app.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\app.controller.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="app.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\app.module.ts">
+        <metrics statements="21" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+      <file name="app.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\app.service.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="main.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\main.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.auth">
+      <metrics statements="25" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <file name="auth.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\auth.module.ts">
+        <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="auth.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\auth.service.ts">
+        <metrics statements="14" coveredstatements="14" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="3" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.auth.guards">
+      <metrics statements="16" coveredstatements="4" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <file name="roles.guard.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\guards\roles.guard.ts">
+        <metrics statements="16" coveredstatements="4" conditionals="3" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="61" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.auth.guards.jwt-auth">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="jwt-auth.guard.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\guards\jwt-auth\jwt-auth.guard.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.auth.guards.local-auth">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="local-auth.guard.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\guards\local-auth\local-auth.guard.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.auth.strategies">
+      <metrics statements="18" coveredstatements="18" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <file name="jwt-strategy.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\strategies\jwt-strategy.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="local-strategy.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\auth\strategies\local-strategy.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.categorias">
+      <metrics statements="88" coveredstatements="54" conditionals="9" coveredconditionals="7" methods="23" coveredmethods="12"/>
+      <file name="categorias.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\categorias.controller.ts">
+        <metrics statements="20" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+      <file name="categorias.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\categorias.module.ts">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="categorias.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\categorias.resolver.ts">
+        <metrics statements="26" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+      <file name="categorias.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\categorias.service.ts">
+        <metrics statements="35" coveredstatements="33" conditionals="9" coveredconditionals="7" methods="6" coveredmethods="6"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="20" count="10" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="55" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="61" count="3" type="stmt"/>
+        <line num="65" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="68" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.categorias.dto">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="create-categoria.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\dto\create-categoria.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="update-categoria.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\dto\update-categoria.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.categorias.entities">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="categoria.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\categorias\entities\categoria.entity.ts">
+        <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="18" count="17" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.ciudades">
+      <metrics statements="141" coveredstatements="97" conditionals="11" coveredconditionals="11" methods="37" coveredmethods="20"/>
+      <file name="ciudades.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\ciudades.controller.ts">
+        <metrics statements="35" coveredstatements="33" conditionals="2" coveredconditionals="2" methods="9" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="61" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="76" count="3" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="79" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="89" count="1" type="stmt"/>
+        <line num="92" count="2" type="stmt"/>
+      </file>
+      <file name="ciudades.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\ciudades.module.ts">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="ciudades.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\ciudades.resolver.ts">
+        <metrics statements="32" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+      </file>
+      <file name="ciudades.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\ciudades.service.ts">
+        <metrics statements="65" coveredstatements="64" conditionals="9" coveredconditionals="9" methods="11" coveredmethods="11"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="30" type="stmt"/>
+        <line num="16" count="30" type="stmt"/>
+        <line num="20" count="30" type="stmt"/>
+        <line num="23" count="30" type="stmt"/>
+        <line num="26" count="30" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="43" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="60" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="71" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="93" count="9" type="stmt"/>
+        <line num="97" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="101" count="7" type="stmt"/>
+        <line num="104" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="105" count="3" type="stmt"/>
+        <line num="108" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="112" count="3" type="stmt"/>
+        <line num="113" count="3" type="stmt"/>
+        <line num="117" count="6" type="stmt"/>
+        <line num="122" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="126" count="4" type="stmt"/>
+        <line num="127" count="3" type="stmt"/>
+        <line num="130" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="131" count="2" type="stmt"/>
+        <line num="133" count="2" type="stmt"/>
+        <line num="134" count="2" type="stmt"/>
+        <line num="138" count="4" type="stmt"/>
+        <line num="143" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="144" count="2" type="stmt"/>
+        <line num="146" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.ciudades.dto">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="create-ciudad.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\dto\create-ciudad.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="update-ciudad.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\dto\update-ciudad.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.ciudades.entities">
+      <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="ciudad.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\ciudades\entities\ciudad.entity.ts">
+        <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="17" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.culturas">
+      <metrics statements="309" coveredstatements="115" conditionals="29" coveredconditionals="0" methods="101" coveredmethods="37"/>
+      <file name="culturas.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\culturas.controller.ts">
+        <metrics statements="59" coveredstatements="58" conditionals="0" coveredconditionals="0" methods="20" coveredmethods="19"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="20" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+        <line num="122" count="1" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="141" count="2" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="150" count="1" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="158" count="1" type="stmt"/>
+        <line num="159" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="172" count="1" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="179" count="1" type="stmt"/>
+        <line num="180" count="1" type="stmt"/>
+        <line num="181" count="1" type="stmt"/>
+        <line num="188" count="1" type="stmt"/>
+        <line num="189" count="1" type="stmt"/>
+      </file>
+      <file name="culturas.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\culturas.module.ts">
+        <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="culturas.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\culturas.resolver.ts">
+        <metrics statements="69" coveredstatements="46" conditionals="0" coveredconditionals="0" methods="45" coveredmethods="18"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+        <line num="119" count="1" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+      </file>
+      <file name="culturas.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\culturas.service.ts">
+        <metrics statements="170" coveredstatements="11" conditionals="29" coveredconditionals="0" methods="36" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="57" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="107" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="134" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="152" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="155" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="163" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="174" count="0" type="stmt"/>
+        <line num="175" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="195" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="206" count="0" type="stmt"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="208" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="216" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="220" count="0" type="stmt"/>
+        <line num="221" count="0" type="stmt"/>
+        <line num="230" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="231" count="0" type="stmt"/>
+        <line num="240" count="0" type="stmt"/>
+        <line num="241" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="243" count="0" type="stmt"/>
+        <line num="244" count="0" type="stmt"/>
+        <line num="248" count="0" type="stmt"/>
+        <line num="254" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="255" count="0" type="stmt"/>
+        <line num="257" count="0" type="stmt"/>
+        <line num="261" count="0" type="stmt"/>
+        <line num="262" count="0" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="264" count="0" type="stmt"/>
+        <line num="265" count="0" type="stmt"/>
+        <line num="269" count="0" type="stmt"/>
+        <line num="270" count="0" type="stmt"/>
+        <line num="274" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="275" count="0" type="stmt"/>
+        <line num="283" count="0" type="stmt"/>
+        <line num="284" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="285" count="0" type="stmt"/>
+        <line num="286" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="287" count="0" type="stmt"/>
+        <line num="290" count="0" type="stmt"/>
+        <line num="291" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="292" count="0" type="stmt"/>
+        <line num="294" count="0" type="stmt"/>
+        <line num="295" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="296" count="0" type="stmt"/>
+        <line num="299" count="0" type="stmt"/>
+        <line num="300" count="0" type="stmt"/>
+        <line num="304" count="0" type="stmt"/>
+        <line num="305" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="306" count="0" type="stmt"/>
+        <line num="308" count="0" type="stmt"/>
+        <line num="309" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="310" count="0" type="stmt"/>
+        <line num="312" count="0" type="stmt"/>
+        <line num="314" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="315" count="0" type="stmt"/>
+        <line num="317" count="0" type="stmt"/>
+        <line num="321" count="0" type="stmt"/>
+        <line num="322" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="323" count="0" type="stmt"/>
+        <line num="325" count="0" type="stmt"/>
+        <line num="329" count="0" type="stmt"/>
+        <line num="331" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="332" count="0" type="stmt"/>
+        <line num="334" count="0" type="stmt"/>
+        <line num="336" count="0" type="stmt"/>
+        <line num="337" count="0" type="stmt"/>
+        <line num="338" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="339" count="0" type="stmt"/>
+        <line num="341" count="0" type="stmt"/>
+        <line num="344" count="0" type="stmt"/>
+        <line num="346" count="0" type="stmt"/>
+        <line num="350" count="0" type="stmt"/>
+        <line num="351" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="352" count="0" type="stmt"/>
+        <line num="354" count="0" type="stmt"/>
+        <line num="355" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="356" count="0" type="stmt"/>
+        <line num="358" count="0" type="stmt"/>
+        <line num="360" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="361" count="0" type="stmt"/>
+        <line num="363" count="0" type="stmt"/>
+        <line num="364" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.culturas.dto">
+      <metrics statements="34" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="actualizar-productos.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\actualizar-productos.dto.ts">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="agregar-paises.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\agregar-paises.dto.ts">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="agregar-receta.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\agregar-receta.dto.ts">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="agregar-restaurantes.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\agregar-restaurantes.dto.ts">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="create-cultura.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\create-cultura.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+      </file>
+      <file name="eliminar-receta.dtos.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\eliminar-receta.dtos.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="update-cultura.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\dto\update-cultura.dto.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.culturas.entities">
+      <metrics statements="21" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="cultura.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\culturas\entities\cultura.entity.ts">
+        <metrics statements="21" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="13" count="17" type="stmt"/>
+        <line num="17" count="17" type="stmt"/>
+        <line num="21" count="17" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="17" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="17" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="17" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.paises">
+      <metrics statements="128" coveredstatements="77" conditionals="11" coveredconditionals="9" methods="35" coveredmethods="17"/>
+      <file name="paises.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\paises.controller.ts">
+        <metrics statements="30" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+      </file>
+      <file name="paises.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\paises.module.ts">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="paises.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\paises.resolver.ts">
+        <metrics statements="26" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+      <file name="paises.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\paises.service.ts">
+        <metrics statements="63" coveredstatements="60" conditionals="11" coveredconditionals="9" methods="13" coveredmethods="13"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="20" type="stmt"/>
+        <line num="18" count="20" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="46" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="57" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+        <line num="83" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="2" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+        <line num="98" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="106" count="2" type="stmt"/>
+        <line num="107" count="2" type="stmt"/>
+        <line num="108" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="115" count="1" type="stmt"/>
+        <line num="120" count="4" type="stmt"/>
+        <line num="124" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="127" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="130" count="2" type="stmt"/>
+        <line num="131" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="134" count="2" type="stmt"/>
+        <line num="135" count="1" type="stmt"/>
+        <line num="140" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="141" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.paises.dto">
+      <metrics statements="11" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="agregar-culturas.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\dto\agregar-culturas.dto.ts">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="create-pais.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\dto\create-pais.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="update-pais.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\dto\update-pais.dto.ts">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.paises.entities">
+      <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="pais.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\paises\entities\pais.entity.ts">
+        <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="17" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.productos">
+      <metrics statements="144" coveredstatements="115" conditionals="12" coveredconditionals="8" methods="39" coveredmethods="28"/>
+      <file name="productos.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\productos.controller.ts">
+        <metrics statements="29" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+      </file>
+      <file name="productos.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\productos.module.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="productos.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\productos.resolver.ts">
+        <metrics statements="39" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="19" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+      </file>
+      <file name="productos.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\productos.service.ts">
+        <metrics statements="68" coveredstatements="59" conditionals="12" coveredconditionals="8" methods="10" coveredmethods="10"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="21" count="14" type="stmt"/>
+        <line num="24" count="14" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="48" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="69" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="77" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="91" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="100" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="105" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="118" count="2" type="stmt"/>
+        <line num="121" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="125" count="2" type="stmt"/>
+        <line num="126" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="135" count="1" type="stmt"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.productos.dto">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="create-categoria.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\dto\create-categoria.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="create-producto.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\dto\create-producto.dto.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+      <file name="update-producto.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\dto\update-producto.dto.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.productos.entities">
+      <metrics statements="18" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <file name="producto.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\productos\entities\producto.entity.ts">
+        <metrics statements="18" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="19" count="17" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+        <line num="27" count="17" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="17" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="17" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.recetas">
+      <metrics statements="142" coveredstatements="99" conditionals="4" coveredconditionals="4" methods="46" coveredmethods="26"/>
+      <file name="recetas.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\recetas.controller.ts">
+        <metrics statements="31" coveredstatements="28" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+      </file>
+      <file name="recetas.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\recetas.module.ts">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="recetas.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\recetas.resolver.ts">
+        <metrics statements="44" coveredstatements="27" conditionals="0" coveredconditionals="0" methods="24" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+      </file>
+      <file name="recetas.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\recetas.service.ts">
+        <metrics statements="58" coveredstatements="44" conditionals="4" coveredconditionals="4" methods="12" coveredmethods="10"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="20" count="14" type="stmt"/>
+        <line num="23" count="14" type="stmt"/>
+        <line num="26" count="14" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="59" count="9" type="stmt"/>
+        <line num="65" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="78" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="94" count="3" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+        <line num="96" count="2" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="115" count="2" type="stmt"/>
+        <line num="116" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="122" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="123" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.recetas.dto">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="agregar-productos.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\dto\agregar-productos.dto.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="create-receta.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\dto\create-receta.dto.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+      </file>
+      <file name="eliminar-productos.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\dto\eliminar-productos.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="update-receta.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\dto\update-receta.dto.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.recetas.entities">
+      <metrics statements="17" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="receta.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\recetas\entities\receta.entity.ts">
+        <metrics statements="17" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="16" count="17" type="stmt"/>
+        <line num="20" count="17" type="stmt"/>
+        <line num="24" count="17" type="stmt"/>
+        <line num="28" count="17" type="stmt"/>
+        <line num="32" count="17" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="17" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.restaurantes">
+      <metrics statements="133" coveredstatements="114" conditionals="12" coveredconditionals="10" methods="35" coveredmethods="30"/>
+      <file name="restaurantes.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\restaurantes.controller.ts">
+        <metrics statements="30" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="10" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+      </file>
+      <file name="restaurantes.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\restaurantes.module.ts">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="restaurantes.resolver.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\restaurantes.resolver.ts">
+        <metrics statements="26" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+      <file name="restaurantes.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\restaurantes.service.ts">
+        <metrics statements="68" coveredstatements="63" conditionals="12" coveredconditionals="10" methods="13" coveredmethods="13"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="18" type="stmt"/>
+        <line num="16" count="18" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="23" count="18" type="stmt"/>
+        <line num="26" count="18" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="59" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="70" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="91" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="105" count="2" type="stmt"/>
+        <line num="106" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="114" count="2" type="stmt"/>
+        <line num="115" count="2" type="stmt"/>
+        <line num="116" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="122" count="1" type="stmt"/>
+        <line num="123" count="1" type="stmt"/>
+        <line num="128" count="4" type="stmt"/>
+        <line num="132" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="135" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="138" count="2" type="stmt"/>
+        <line num="139" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="142" count="2" type="stmt"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="148" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="149" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.restaurantes.dto">
+      <metrics statements="18" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="agregar-culturas.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\dto\agregar-culturas.dto.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="create-restaurante.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\dto\create-restaurante.dto.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+      <file name="eliminar-culturas.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\dto\eliminar-culturas.dto.ts">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+      <file name="update-restaurante.dto.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\dto\update-restaurante.dto.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.restaurantes.entities">
+      <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="restaurante.entity.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\restaurantes\entities\restaurante.entity.ts">
+        <metrics statements="15" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="2" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="15" count="17" type="stmt"/>
+        <line num="19" count="17" type="stmt"/>
+        <line num="23" count="17" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="17" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.errors">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="business-errors.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\shared\errors\business-errors.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="17" type="stmt"/>
+        <line num="3" count="17" type="stmt"/>
+        <line num="5" count="34" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared.security">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="constants.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\shared\security\constants.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.user">
+      <metrics statements="27" coveredstatements="21" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <file name="role.enum.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\role.enum.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+      </file>
+      <file name="roles.decorator.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\roles.decorator.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="54" type="stmt"/>
+      </file>
+      <file name="user.controller.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\user.controller.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="user.module.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\user.module.ts">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="0" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="user.service.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\user.service.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.user.user">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="user.ts" path="C:\Users\Usuario\Documents\MISOProyectos\CuartoSemestre\Métricas y calidad\Entrega\MISW4403_202414_E15\src\user\user\user.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="8" count="24" type="stmt"/>
+        <line num="9" count="24" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
