@@ -41,7 +41,7 @@ export class CiudadesService {
       const cached = await this.cacheManager.get(this.cacheKey);
 
       if (!cached) {
-        const ciudades = this.ciudadRepository.find({ relations: ['restaurantes'] });
+        const ciudades = await this.ciudadRepository.find({ relations: ['restaurantes'] });
         await this.cacheManager.set(this.cacheKey, ciudades, 1000 * 600)
         return ciudades;
       }
